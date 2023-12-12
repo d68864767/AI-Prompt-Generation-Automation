@@ -1,0 +1,17 @@
+# AI Prompt Generation Automation
+
+# Backend dependencies
+numpy==1.21.2
+tensorflow==2.6.0
+
+# Frontend dependencies
+flask==2.0.1
+react==17.0.2
+
+# Testing dependencies
+pytest==6.2.5
+selenium==4.0.0
+
+# Deployment dependencies
+docker==5.0.0
+kubernetes==1.22.2
